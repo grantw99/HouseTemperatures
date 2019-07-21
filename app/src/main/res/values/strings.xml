@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">House Temperatures</string>
+    <string-array name="locationsArray">
+        <item>Attic</item>
+        <item>Basement</item>
+        <item>Garage</item>
+        <item>Outside</item>
+    </string-array>
+    <string-array name="intervalsArray">
+        <item>7</item>
+        <item>30</item>
+    </string-array>
+</resources>
